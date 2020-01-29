@@ -1,16 +1,16 @@
 {
   "name": "strapi-plugin-engineering-tools",
   "version": "0.0.1",
-  "description": "This is the description of the plugin.",
+  "description": "Provides a new perspective in all system.",
   "strapi": {
     "name": "engineering-tools",
     "icon": "plug",
-    "description": "Description of engineering-tools plugin."
+    "description": "Provides a new perspective in all system."
   },
   "dependencies": {},
-  "author": "A Strapi developer",
+  "author": "Thiago Bocchile <tykoth@gmail.com>",
   "maintainers": [
-    "A Strapi developer"
+    "author": "Thiago Bocchile <tykoth@gmail.com>",
   ],
   "engines": {
     "node": ">=10.0.0",
