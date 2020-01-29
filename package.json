@@ -1,0 +1,38 @@
+{
+  "name": "strapi-plugin-engineering-tools",
+  "version": "0.0.1",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "engineering-tools",
+    "icon": "plug",
+    "description": "Description of engineering-tools plugin."
+  },
+  "dependencies": {},
+  "author": "A Strapi developer",
+  "maintainers": [
+    "A Strapi developer"
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tykoth/strapi-plugin-engineering-tools.git"
+  },
+  "keywords": [
+    "strapi",
+    "plugin",
+    "engineering",
+    "tools"
+  ],
+  "bugs": {
+    "url": "https://github.com/tykoth/strapi-plugin-engineering-tools/issues"
+  },
+  "homepage": "https://github.com/tykoth/strapi-plugin-engineering-tools#readme"
+}
